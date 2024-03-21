@@ -26,4 +26,4 @@ With easy to register GUIs to the function, and don't worry about the items gett
 ## You Can Join My Discord If You Have Any Issues: https://discord.gg/RpuFMMpZCV
 
 
-I Made This For Community Of The Oraxen Plugin, Oraxen Isn't Required Tho.
+I Made This For Oraxen Community, Oraxen Isn't Required Tho.

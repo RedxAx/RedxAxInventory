@@ -1,0 +1,12 @@
+name: RedxAxInventory
+author: RedxAx
+version: '1'
+main: me.redxax.redxaxinventory.RedxAxInventory
+api-version: '1.20'
+commands:
+  rinv:
+      description: Open the RedxAxInventory
+      usage: /<command>
+      aliases: [ri,redxaxinventory,redinv]
+      permission: redxaxinventory.use
+      permission-message: You do not have permission to use this command
